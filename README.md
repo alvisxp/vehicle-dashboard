@@ -2,6 +2,13 @@
 
 This dashboard visualizes vehicle registration data in the US. It allows users to select a year and vehicle mode (Electric, Alternative, Conventional) to display on a choropleth map.
 
+## Contents
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Dataset](#dataset)
+  
 ## Requirements
 
 - Python >=3.6 
